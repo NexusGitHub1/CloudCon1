@@ -1,38 +1,36 @@
-Cybersecurity, Cloud Computing & Networking Convention ConJan25
+Cybersecurity, Cloud Computing & Networking Convention
 
-10:00 to 12:30 Cybersecurity Awareness
+10:00 AM to 1:00 PM Cybersecurity Awareness
 - Cybersecurity who's who
 - Recent Cybersecurity Attacks
 - Best Practices in Cybersecurity
 - Live demo of common vulnerabilites
 - Red Team vs Blue Team Tournament concept
-  Game 1: Red Team will gain remote root access to victims PC, collects keylogs & perform SQL injection on a web server
-   1st prize: P 100,000
-   2nd prize: P 50,000
-   3nd prize: P 25,000
+  Game 1: Gain remote root access, collects keylogs & perform SQL injection on a web server
 
-1:15 PM to 3:45 Cloud Computing using Microsoft Azure
-- Azure Portal, Cloud Shell, Powershell & CLI
+1:45 PM to 3:15 PM Cloud Computing using Microsoft Azure
+- Live Demo of: Azure Portal, Cloud Shell, Powershell & CLI
 - Site connectivity using VNet-to-VNet Connections
 - Azure Load Balancer & Traffic Manager
 - Azure AD Connect & Self-service password reset
 - How to become a DevOps Engineer
-  Game 2: Countdown on who can deploy resources in Azure the fastest
+  Game 2: Fastest deployment of resources using Azure Cloud CLI
 
-4:30 to 6:30 AWS Cloud Computing Core Platform
+4:00 PM to 6:30 PM AWS Cloud Computing Core Platform
 - Amazon Elastic Compute Cloud & Elastic Block Store
 - AWS Identity and Access Management (IAM).
 - Amazon Route 53 and Amazon CloudFront
-- Fight cyber threats without slowing down your website with WAF
+- Live Demo on how to fight cyber criminals usin AWS WAF
   Game 3: Stop all the attacks against SQL injection & Cross-Site Scripting (XSS) Competition
  
-7:30 PM to 10:00 PM Sneak Peak into the new CCNA & CCNP 2020
+7:15 PM to 9:45 PM Sneak Peak into the new CCNA & CCNP 2020
 - How to get your CCNP without CCNA
 - How many exam's before you can take CCNP
 - What's new in CCNA 2020
-  Game 4: Allow HTTP, SSH & ping from public to private & to DMZ using cisco firewall
+  Game 4: Allow HTTP, SSH & ping from public to private & to DMZ using cisco ASA firewall
   
-   1st prize: P 60,000
-   2nd prize: P 50,000
-   3nd prize: P 40,000
-   4th prize: P 21,000
+Individual winners from 4 tournaments will get the following prizes
+1st Prize: P 114,000 worth of courses (CCNA,Azure,AWS,MCSA,VMware,EH)
+2nd Prize: P 61,000 worth of courses (CCNA,Azure,AWS)
+3rd Prize: P 46,000 worth of courses (CCNA,MCSA 2016)
+4th Prize: P 21,000 worth of courses (CCNA)
